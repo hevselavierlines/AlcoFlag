@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="AlcoFlag" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" minimumFontSize="18" translatesAutoresizingMaskIntoConstraints="NO" id="kId-c2-rCX">
+                    <rect key="frame" x="115" y="22" width="145" height="43"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="43" id="5Cz-Gi-li8"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="36"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                </label>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="saI-iG-b6I">
+                    <rect key="frame" x="8" y="65" width="359" height="160"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="160" id="ghz-Mv-aSZ"/>
+                    </constraints>
+                    <string key="text">The FH Hagenberg as well as the creator of these application doesn't take any responsibility. The values are calculated with the user input and we cannot gurantee if the result is correct!</string>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  Copyright (c) 2015 Manuel Baumgartner Ver. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="8ie-xW-0ye">
+                    <rect key="frame" x="0.0" y="626" width="375" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21" id="J0g-4L-qWd"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dontdrinkanddrive" translatesAutoresizingMaskIntoConstraints="NO" id="fbW-xo-FBo">
+                    <rect key="frame" x="8" y="233" width="359" height="385"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+            <constraints>
+                <constraint firstAttribute="centerX" secondItem="kId-c2-rCX" secondAttribute="centerX" id="3cg-bM-Vmh"/>
+                <constraint firstAttribute="trailing" secondItem="saI-iG-b6I" secondAttribute="trailing" constant="8" id="6a3-y9-3ky"/>
+                <constraint firstAttribute="centerX" secondItem="8ie-xW-0ye" secondAttribute="centerX" id="AOf-G2-rhQ"/>
+                <constraint firstItem="fbW-xo-FBo" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="Afs-Hs-AhU"/>
+                <constraint firstAttribute="bottom" secondItem="8ie-xW-0ye" secondAttribute="bottom" constant="20" id="FJd-A0-NIc"/>
+                <constraint firstItem="fbW-xo-FBo" firstAttribute="top" secondItem="saI-iG-b6I" secondAttribute="bottom" constant="8" id="Mfp-vS-YM6"/>
+                <constraint firstAttribute="trailing" secondItem="8ie-xW-0ye" secondAttribute="trailing" id="WSF-hF-zWi"/>
+                <constraint firstAttribute="trailing" secondItem="fbW-xo-FBo" secondAttribute="trailing" constant="8" id="cUt-aE-Zzk"/>
+                <constraint firstItem="saI-iG-b6I" firstAttribute="top" secondItem="kId-c2-rCX" secondAttribute="bottom" id="eaf-Bl-uAV"/>
+                <constraint firstItem="saI-iG-b6I" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="fu7-3n-O9Z"/>
+                <constraint firstItem="8ie-xW-0ye" firstAttribute="top" secondItem="fbW-xo-FBo" secondAttribute="bottom" constant="8" id="mFM-rn-SFn"/>
+                <constraint firstItem="kId-c2-rCX" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="22" id="nIG-hH-GmH"/>
+                <constraint firstItem="8ie-xW-0ye" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="rux-QO-O68"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+            <point key="canvasLocation" x="514.5" y="453.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="dontdrinkanddrive" width="186" height="191"/>
+    </resources>
+</document>

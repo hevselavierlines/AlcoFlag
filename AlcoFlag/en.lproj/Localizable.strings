@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  AlcoFlag
+
+  Created by Manuel Baumgartner on 27/04/2015.
+  Copyright (c) 2015 Hevselavier Lines Ver. All rights reserved.
+*/
+sober="sober";
+sober_at="sober at: %02d:%02d";
+beer="Beer";
+stieglbeer="Stiegl Beer";
+radler="Shandy";
+wine="Wine";
+schnaps="Schnaps";
+vodka="Vodka";
+huntermaster="Huntermaster";
+whisky="Whisky";
+longisland="Long Island";
+krainer="Krainer";
+pinacolada="Pina Colada";
+seabreeze="Sea Breeze";
+swimmingpool="Swimming Pool";
+caipirinha="Caipirinha";
+wheatbeer="Wheat beer";
+other="Other";
+
+reached00="You are sober now!";
+reached05="You reached 0.5 ‰!";
+reached08="You reached 0.8 ‰!";
+
+deleteall="Delete all";
+deletealldrinks="Do you really want to delete all drinks?";
+cancel="Cancel";
+
+editdrink="Edit %@";
+twittermessage1="Very good party! I'll stay sober today.";
+twittermessage2="Today I won't drink much. Party is super!";
+twittermessage3="I'm having a great party today!";
+twittermessage4="It will become a very long night!";
+
+newdrink="New drink";
+selectpicsource="Select picture source:";
+photos="Photos";
+camera="Camera";
+userdrink="userdrink";
+
+instruction1="Welcome to AlcoFlag, firstly you have to do some settings. The settings menu is started automatically. The app needs your weight and your gender. Additionally, you can turn on notifications when you reach a specified limit.";
+instruction2="Click done and you see the main screen. The four buttons are for these use-cases respectively: add drink, edit drinks, share and goto settings";
+instruction3="Click on the add-drink button to add a drink. You see now a big collection of drinks. Please select a drink or the other-drink.";
+instruction4="Secondly the drinking-time is needed. The time defines the start time of the drink. Open it by clicking on the current time.";
+instruction5="You can also edit the alcohol-percentage of the drink by clicking on the current percentage.";
+instruction6="Then we need the amount of the drink. Edit it by clicking on the current amount.";
+instruction7="Click on the plus sign when you are finished. The main-screen displays you the current alcohol concentration.";
+instruction8="By clicking on the edit-button you can edit or delete drinks. You see all drinks in a list.";
+instruction9="Delete a drink by a left-swipe.";
+instruction10="Edit a drink by a click on the particular drink. The edit-drink view is shown. The edit itself is the same with the add-drink view.";
+instruction11="You can also add custom pictures for a drink. Click on add drink and select a picture. Adjust the values for your drink and click on the add-button.";

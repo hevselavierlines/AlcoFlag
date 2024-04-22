@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  AlcoFlag
+
+  Created by Manuel Baumgartner on 27/04/2015.
+  Copyright (c) 2015 Hevselavier Lines Ver. All rights reserved.
+*/
+sober="nüchtern";
+sober_at="nüchtern um: %02d:%02d";
+beer="Bier";
+stieglbeer="Stiegl Beer";
+radler="Radler";
+wine="Wein";
+schnaps="Schnaps";
+vodka="Vodka";
+huntermaster="Jägermeister";
+whisky="Whisky";
+longisland="Long Island";
+krainer="Krainer";
+pinacolada="Pina Colada";
+seabreeze="Sea Breeze";
+swimmingpool="Swimming Pool";
+caipirinha="Caipirinha";
+wheatbeer="Weizenbier";
+other="Andere";
+
+reached00="Sie sind jetzt nüchtern!";
+reached05="Sie haben 0.5 ‰ erreicht!";
+reached08="Sie haben 0.8 ‰ erreicht!";
+
+deleteall="Alle Entfernen";
+deletealldrinks="Möchten Sie wirklich alle Getränke entfernen?";
+cancel="Abbrechen";
+
+editdrink="%@ bearbeiten";
+twittermessage1="Voll auf Party. Aber heute bleibe ich nüchtern!";
+twittermessage2="Heute trinke ich nicht viel. Party ist aber super";
+twittermessage3="Es gibt richtig was zu feiern";
+twittermessage4="Das wird heute noch eine lange Nacht";
+
+newdrink="Neuer Drink";
+selectpicsource="Bitte wählen Sie die Bildquelle:";
+photos="Fotos";
+camera="Kamera";
+userdrink="Usergetränk";
+
+instruction1="Willkommen bei AlcoFlag. Beim ersten Start öffnet sich das Einstellungs-Menü. Hier müssen Sie bitte ihr Gewicht und ihr Geschlecht eingeben. Des weiteren können Sie eine Benachrichtigung bei einer gewissen Schwelle einstellen.";
+instruction2="Mit einem Klick auf Fertig sehen Sie das Hauptfenster. Die vier Buttons sind für Getränk hinzufügen, Getränke bearbeiten, Twitter-Post und Einstellungen";
+instruction3="Tippen Sie nun auf den Hinzufügen-Button und wählen Sie entweder ein Getränk aus der Kollektionen oder wählen Sie Andere.";
+instruction4="Stellen Sie anschließend die Zeit ein, dies können Sie mit einem Tipp auf die aktuelle Zeit machen.";
+instruction5="Ist der Volumsprozent-Wert korrekt? Wenn nein, tippen Sie auf den aktullen Wert und stellen Sie den richtigen ein.";
+instruction6="Außerdem wird die Menge noch benötigt. Diese stellen Sie mit einem Tipp auf die aktuelle Menge ein.";
+instruction7="Wenn Sie ferig sind, tippen Sie auf Fertig. Sie sehen nun den aktuellen Alkoholspiegel und wenn Sie wieder nüchtern sind.";
+instruction8="Mit einem Tipp auf den Bearbeiten-Button sehen Sie die eingegebenen Getränke. Diese können Sie nun bearbeiten oder entfernen.";
+instruction9="Mit einem Wisch nach links können Sie ein Getränk entfernen. Mit dem Alle Entfernen-Button können Sie alle Getränke auf einmal entfernen.";
+instruction10="Mit einem Tipp auf ein Getränk öffnet sich eine Ansicht, die er Getränk hinzufügen gleicht. Hiermit können Sie die Werte korrigieren.";
+instruction11="Sie können auch eigene Bilder für Getränke verwenden. Tippen Sie hier auf neues Getränk und wählen Sie ein Bild aus. Anschließend stellen Sie die gewünschten Werte ein und tippen auf hinzufügen.";

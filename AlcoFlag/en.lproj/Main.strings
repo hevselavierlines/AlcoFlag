@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "AlcoFlag"; ObjectID = "OSe-qr-7Lt"; */
+"OSe-qr-7Lt.title" = "AlcoFlag";
+
+/* Class = "UINavigationItem"; title = "Add Drink"; ObjectID = "Zdd-fD-rdr"; */
+"Zdd-fD-rdr.title" = "Add Drink";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "l4K-kT-2ch"; */
+"l4K-kT-2ch.title" = "Cancel";
+
+/* Class = "UIViewController"; title = "AlcoFlag"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "AlcoFlag";
+
+/* Class = "UILabel"; text = "drunkenness:"; ObjectID = "y5E-yF-mku"; */
+"y5E-yF-mku.text" = "drunkenness:";

@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "1 L"; ObjectID = "38u-Mc-Iyz"; */
+"38u-Mc-Iyz.text" = "1 L";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "3cw-ZA-i3b"; */
+"3cw-ZA-i3b.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "0.00 ‰"; ObjectID = "6zr-rx-DaX"; */
+"6zr-rx-DaX.text" = "0.00 ‰";
+
+/* Class = "UILabel"; text = "20:00"; ObjectID = "809-Xe-TUx"; */
+"809-Xe-TUx.text" = "20:00";
+
+/* Class = "UINavigationItem"; title = "Edit Drinks"; ObjectID = "906-tR-G0i"; */
+"906-tR-G0i.title" = "Edit Drinks";
+
+/* Class = "UILabel"; text = "Notify:"; ObjectID = "CSf-rO-Egw"; */
+"CSf-rO-Egw.text" = "Nachricht:";
+
+/* Class = "UILabel"; text = "sober"; ObjectID = "Cvg-Ap-LIt"; */
+"Cvg-Ap-LIt.text" = "sober";
+
+/* Class = "UIButton"; normalTitle = "0.5 L"; ObjectID = "DZy-j5-IV0"; */
+"DZy-j5-IV0.normalTitle" = "0.5 L";
+
+/* Class = "UIBarButtonItem"; title = "Alle Entfernen"; ObjectID = "GN0-B9-yJh"; */
+"GN0-B9-yJh.title" = "Alle Entfernen";
+
+/* Class = "UILabel"; text = "No drinks yet..."; ObjectID = "Ntt-m6-FT4"; */
+"Ntt-m6-FT4.text" = "Noch keine Getränke...";
+
+/* Class = "UINavigationItem"; title = "AlcoFlag"; ObjectID = "OSe-qr-7Lt"; */
+"OSe-qr-7Lt.title" = "AlcoFlag";
+
+/* Class = "UINavigationItem"; title = "Instruction"; ObjectID = "Pav-vg-2cX"; */
+"Pav-vg-2cX.title" = "Willkommen";
+
+/* Class = "UILabel"; text = "0.00 %"; ObjectID = "QVI-Pk-G6D"; */
+"QVI-Pk-G6D.text" = "0.00 %";
+
+/* Class = "UILabel"; text = "Gewicht:"; ObjectID = "R3Q-B4-t9N"; */
+"R3Q-B4-t9N.text" = "Gewicht:";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "RxE-ci-caO"; */
+"RxE-ci-caO.text" = "Geschlecht:";
+
+/* Class = "UILabel"; text = "Volumsprozent:"; ObjectID = "V85-Zy-OW6"; */
+"V85-Zy-OW6.text" = "Volumsprozent:";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "VuH-rr-Enm"; */
+"VuH-rr-Enm.title" = "Einstellungen";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "WMu-BW-zPY"; */
+"WMu-BW-zPY.title" = "Schließen";
+
+/* Class = "UISegmentedControl"; XAi-cT-nGq.segmentTitles[0] = "Aus"; ObjectID = "XAi-cT-nGq"; */
+"XAi-cT-nGq.segmentTitles[0]" = "Aus";
+
+/* Class = "UISegmentedControl"; XAi-cT-nGq.segmentTitles[1] = "0.0 ‰"; ObjectID = "XAi-cT-nGq"; */
+"XAi-cT-nGq.segmentTitles[1]" = "0.0 ‰";
+
+/* Class = "UISegmentedControl"; XAi-cT-nGq.segmentTitles[2] = "0.5 ‰"; ObjectID = "XAi-cT-nGq"; */
+"XAi-cT-nGq.segmentTitles[2]" = "0.5 ‰";
+
+/* Class = "UISegmentedControl"; XAi-cT-nGq.segmentTitles[3] = "0.8 ‰"; ObjectID = "XAi-cT-nGq"; */
+"XAi-cT-nGq.segmentTitles[3]" = "0.8 ‰";
+
+/* Class = "UINavigationItem"; title = "Add Drink"; ObjectID = "Zdd-fD-rdr"; */
+"Zdd-fD-rdr.title" = "Add Drink";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "aBc-Z8-LgI"; */
+"aBc-Z8-LgI.text" = "Time:";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "iRF-zw-mc3"; */
+"iRF-zw-mc3.normalTitle" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "l4K-kT-2ch"; */
+"l4K-kT-2ch.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "ml2-3R-BgO"; */
+"ml2-3R-BgO.normalTitle" = "Add";
+
+/* Class = "UIButton"; normalTitle = "00:00"; ObjectID = "oZl-mV-ehI"; */
+"oZl-mV-ehI.normalTitle" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "Einstellungen"; ObjectID = "uGe-Ft-Ybv"; */
+"uGe-Ft-Ybv.normalTitle" = "Einstellungen";
+
+/* Class = "UILabel"; text = "Amount:"; ObjectID = "vQt-9u-mIq"; */
+"vQt-9u-mIq.text" = "Amount:";
+
+/* Class = "UILabel"; text = "Getränk"; ObjectID = "vTd-jt-SVl"; */
+"vTd-jt-SVl.text" = "Getränk";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "vUc-um-APy"; */
+"vUc-um-APy.title" = "Add";
+
+/* Class = "UIViewController"; title = "AlcoFlag"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "AlcoFlag";
+
+/* Class = "UIButton"; normalTitle = "0.5 %"; ObjectID = "wfK-QV-2kH"; */
+"wfK-QV-2kH.normalTitle" = "0.5 %";
+
+/* Class = "UISegmentedControl"; wty-A3-ORo.segmentTitles[0] = "Männlich"; ObjectID = "wty-A3-ORo"; */
+"wty-A3-ORo.segmentTitles[0]" = "Männlich";
+
+/* Class = "UISegmentedControl"; wty-A3-ORo.segmentTitles[1] = "Weiblich"; ObjectID = "wty-A3-ORo"; */
+"wty-A3-ORo.segmentTitles[1]" = "Weiblich";
